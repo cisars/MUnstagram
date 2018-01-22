@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MUnstagram</string>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="text_button_login">Login</string>
+    <string name="dont_have_account">dont have account?</string>
+    <string name="create_here">click here</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_user">User</string>
+    <string name="hint_confirm_password">Confirm password</string>
+    <string name="text_button_createaccount">Join us</string>
+    <string name="toolbar_tittle_createaccount">Create Account</string>
+    <string name="firstword_card">Since</string>
+    <string name="timecard_card">4 days</string>
+    <string name="likenumber_card">10 like</string>
+    <string name="username_card">Uriel Ramirez</string>
+    <string name="secondword_detail">me gusta</string>
+    <string name="searchhinttext">buscar</string>
+</resources>

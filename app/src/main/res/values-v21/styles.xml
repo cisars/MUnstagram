@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme.TransNav" parent="AppTheme">
+
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+    </style>
+
+    <!--
+    este item causa que en la vista de PROFILE para tablets se vean desorbitados el nombre y la foto miniatura con efecto
+     <item name="android:windowTranslucentNavigation">true</item>
+
+     este item hace transparente o blanco la botonera por defecto del android de  la parte de abajo.
+     <item name="android:navigationBarColor">@android:color/transparent</item>
+    -->
+
+</resources>

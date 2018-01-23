@@ -29,10 +29,6 @@
                 android:value=".LoginActivity" />
         </activity>
         <!-- <activity android:name=".ReferenciaActivity" /> -->
-        <activity
-            android:name=".ReferenciaActivity"
-            android:label="@string/title_activity_referencia"
-            android:theme="@style/AppTheme" />
 
         <!-- android:theme="@style/AppTheme.NoActionBar" -->
         <activity android:name=".vista.ContainerActivity" android:theme="@style/AppTheme.TransNav" />

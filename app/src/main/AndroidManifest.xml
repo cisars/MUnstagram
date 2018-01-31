@@ -12,7 +12,7 @@
         android:theme="@style/AppTheme">
 
         <!-- android:roundIcon="@mipmap/ic_launcher_round" -->
-        <activity android:name=".LoginActivity">
+        <activity android:name=".login.view.LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -21,12 +21,12 @@
         </activity>
         <activity
             android:name=".vista.CreateAccountActivity"
-            android:parentActivityName=".LoginActivity">
+            android:parentActivityName=".login.view.LoginActivity">
 
             <!-- Esta linea es necesaria para dar soporte a versiones anteiores -->
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".LoginActivity" />
+                android:value=".login.view.LoginActivity" />
         </activity>
         <!-- <activity android:name=".ReferenciaActivity" /> -->
         <activity
